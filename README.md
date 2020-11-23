@@ -8,5 +8,8 @@ Veicu testus viss strādā.
 - Kā programmēt?  
 Mācies!
 
+- Kā aprēķināt summu?  
+Saskaiti!
+
 # Izmantotā literatūra
 google.lv
