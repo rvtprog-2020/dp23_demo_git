@@ -1,1 +1,3 @@
-# dp23_demo_git
+# DP23 DEMO GIT v2
+
+Autors Māris
